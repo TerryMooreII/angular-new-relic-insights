@@ -24,10 +24,10 @@ Usage
 ```
 
 
-Parameters
+Attributes
 ---------------
 
-Parameter | Description
+Attributes | Description
 -----|----
 nr-insights |  {string} *Required* Action Name.  Place this on any element to log the action event to New Relic Insights
 action-event | {string} *Required* Any JavaScript event handle (ex. click, touch, mouseover, mousein, etc)
