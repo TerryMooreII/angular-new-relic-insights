@@ -1,7 +1,7 @@
 angular-new-relic-insights
 ============================
 
-An AngularJS directive to custom New Relic Insights Events
+An AngularJS directive to log custom events to New Relic Insights
 
 This has not been tested yet...
 
