@@ -1,0 +1,46 @@
+{
+    "name": "angular-new-relic-insights",
+    "version": "0.0.1",
+    "description": "Angular New Relic Insights",
+    "filename": "./dist/angular-new-relic-insights.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TerryMooreII/angular-new-relic-insights.git"
+    },
+    "keywords": [
+        "angular",
+        "azure",
+        "mobile",
+        "service",
+        "cloud"
+    ],
+    "author": "Terry Moore II",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/TerryMooreII/angular-new-relic-insights/issues"
+    },
+    "homepage": "https://github.com/TerryMooreII/angular-new-relic-insights",
+    "dependencies": {
+        "angular": ">= 1.0.0"
+    },
+    "devDependencies": {
+        "gulp": "~3.8.11",
+        "gulp-rename": "~1.2.0",
+        "gulp-concat": "~2.4.3",
+        "gulp-uglify": "~1.1.0",
+        "gulp-jshint": "~1.9.2",
+        "gulp-ngmin": "~0.3.0",
+        "express": "~4.11.2",
+        "connect-livereload": "~0.5.2",
+        "tiny-lr": "~0.1.5"
+    },
+    "autoupdate": {
+        "source": "git",
+        "target": "https://github.com/TerryMooreII/angular-new-relic-insights.git",
+        "basePath": "dist",
+        "files": [
+            "angular-new-relic-insights.js",
+            "angular-new-relic-insights.min.js"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "author": "Terry Moore II",
+  "name": "angular-new-relic-insights",
+  "description": "Angular New Relic Insights",
+  "version": "0.0.1",
+  "homepage": "https://github.com/TerryMooreII/angular-new-relic-insights.git",
+  "main": "./dist/angular-new-relic-insights.min.js",
+  "dependencies": {
+    "angular": ">= 1.0.0"
+  }
+}
