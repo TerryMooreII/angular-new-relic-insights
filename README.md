@@ -20,10 +20,7 @@ Usage
 ---------
 
 ```html
-...
-
-	<button nr-insights="CustomActionName" action-event="click" action-data="yourData">Click Me</button>
-...
+<button nr-insights="CustomActionName" action-event="click" action-data="yourData">Click Me</button>
 ```
 
 
